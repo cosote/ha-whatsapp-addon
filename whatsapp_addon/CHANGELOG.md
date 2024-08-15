@@ -1,3 +1,18 @@
+## 1.4.0
+
+- Updated whatsapp library
+- Changed session saving method
+- Special functions such as sending buttons, sending lists, etc., are no longer available.
+
+## 1.3.5
+
+- Revert [(Pull request)](https://github.com/giuseppecastaldo/ha-addons/pull/33)
+
+## 1.3.4
+
+- Bug fixed [(Pull request)](https://github.com/giuseppecastaldo/ha-addons/pull/33)
+- Bug fixed [(Pull request)](https://github.com/giuseppecastaldo/ha-addons/pull/55)
+
 ## 1.3.3
 
 - Added donation button.
